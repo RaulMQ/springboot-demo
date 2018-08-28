@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringbootDemoApplication {
-	// file prueba 02
+	// file prueba 06
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootDemoApplication.class, args);
 	}
